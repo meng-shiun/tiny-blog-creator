@@ -1,7 +1,7 @@
 {
-  "name": "weather-search",
+  "name": "tiny-blog-creator",
   "version": "1.0.0",
-  "description": "Weather search app to learn Redux.",
+  "description": "Tiny blog creator to learn Redux & React Router",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",

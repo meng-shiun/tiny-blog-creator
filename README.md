@@ -1,6 +1,6 @@
-# Weather Search
+# Tiny blog creator
 
-A simple book list to learn Redux.
+Tiny blog creator to learn Redux & React Router.
 
 Following the course "Modern React with Redux" by Stephen Grider.
 
